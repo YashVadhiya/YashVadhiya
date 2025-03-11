@@ -5,8 +5,8 @@ I'm Yash Vadhiya, a passionate BCA graduate and current MBA student (2025 - 2027
 
 🔨 Technical Skills:
 Programming Languages: Python, SQL, JavaScript, PHP
-Web Development: HTML, CSS, Bootstrap, Laravel, UI/UX Design
-Data Science & Analytics: Machine Learning, Data Visualization (Tableau), MS Excel
+Web Development: HTML, CSS, Bootstrap, Laravel, UI/UX Design,
+Data Science & Analytics: Machine Learning, Data Visualization (Tableau), MS Excel,
 Tools & Technologies: MySQL, Git, SAS
 
 💼 Projects:
