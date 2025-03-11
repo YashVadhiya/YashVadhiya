@@ -14,9 +14,9 @@ Hospital Management System:
 Developed a comprehensive, full-stack system for managing hospital operations efficiently. Built with PHP, MySQL, JavaScript, HTML, CSS, and Bootstrap, focusing on user-friendly interfaces and robust data handling.
 
 📜 Certifications:
-Data Science Pro Program (Fingertips)
-Laravel Programming (APPTISAM)
-Business Analytics Using SAS (Infosys)
+Data Science Pro Program (Fingertips),
+Laravel Programming (APPTISAM),
+Business Analytics Using SAS (Infosys).
 
 📫 Let's Connect:
 LinkedIn: Yash Vadhiya
